@@ -1,0 +1,2306 @@
+[
+ {
+   "transcript_id": "401E21A0-1E4C-4384-843E-65E24376826E",
+   "name": "Q3 2013 International Business Machines Earnings Conference Call",
+   "transcript_datetime": "10/16/2013 8:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "B66BDF04-939B-44B1-9DBE-AD786CBCFDA2",
+   "name": "Q4 2010 Netflix Earnings Conference Call",
+   "transcript_datetime": "1/26/2011 11:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "6A79ECC5-6DDB-4B5E-BFB8-7B806C742ADD",
+   "name": "Q1 2010 Google Earnings Conference Call",
+   "transcript_datetime": "4/15/2010 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "BE139F3C-F9FF-4CB3-AAE8-2CA525F9C296",
+   "name": "Q3 2010 United States Steel Corp. Earnings Conference Call",
+   "transcript_datetime": "10/26/2010 6:00:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "37651338-411D-4F16-AA6E-883F161930BB",
+   "name": "Q4 2012 International Business Machines Earnings Conference Call",
+   "transcript_datetime": "1/22/2013 9:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "E244568E-DEF4-44CC-9C5F-3D28EFEE8FC2",
+   "name": "Q2 2011 Apple Inc Earnings Conference Call",
+   "transcript_datetime": "4/20/2011 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "3DEB7FFA-8CCB-42DD-BAD2-91483E60AD75",
+   "name": "Q2 2018 United States Steel Corp Earnings Call",
+   "transcript_datetime": "8/2/2018 12:30:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "8B2B83D5-3D5B-4431-8704-A56776C9E37D",
+   "name": "Q1 2015 United States Steel Corp Earnings Call",
+   "transcript_datetime": "4/29/2015 12:30:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "9B0DF085-A023-479F-B771-1DBA66412E4C",
+   "name": "Q1 2014 Google Earnings Conference Call",
+   "transcript_datetime": "4/16/2014 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "1851CD63-B314-4CE6-B2D3-FF074E6928F0",
+   "name": "Q1 2015 Google Inc Earnings Call",
+   "transcript_datetime": "4/23/2015 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "C30D459F-39ED-45D6-9884-936D76C296E8",
+   "name": "Q1 2013 Apple Inc. Earnings Conference Call",
+   "transcript_datetime": "1/23/2013 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "658D2EFD-5648-4549-92D1-C386E5AD5BF4",
+   "name": "Q3 2017 International Business Machines Corp Earnings Call",
+   "transcript_datetime": "10/17/2017 9:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "E3A91846-A7D2-415B-83B5-133732C1857E",
+   "name": "Q3 2015 Netflix Inc Earnings Call",
+   "transcript_datetime": "10/14/2015 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "DFCFDF80-7277-4D73-8D00-8ED83B92BAC8",
+   "name": "Q4 2015 Nike Inc Earnings Call",
+   "transcript_datetime": "6/25/2015 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "7761780C-F855-48D3-B84F-2FB4AA6B0F5F",
+   "name": "Q3 2015 Alphabet Inc Earnings Call",
+   "transcript_datetime": "10/22/2015 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "AA884A38-4A03-4AFD-A0DD-9204FB626C2D",
+   "name": "Q1 2013 International Business Machines Earnings Conference Call",
+   "transcript_datetime": "4/18/2013 8:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "3E6649D7-6536-46B5-A502-9A5A1F8A3810",
+   "name": "Q4 2010 Kenexa Earnings Conference Call",
+   "transcript_datetime": "2/8/2011 10:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "58B09148-2602-4972-B10D-15954F733F20",
+   "name": "Q4 2017 Apple Inc Earnings Call",
+   "transcript_datetime": "11/2/2017 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "D29A5CB2-28F2-4804-8B5B-C23734575B5E",
+   "name": "Q3 2010 Verizon Earnings Conference Call",
+   "transcript_datetime": "10/22/2010 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "8A4B0B2C-55D9-4BF1-88C3-BBB879DB6E27",
+   "name": "Q1 2013 United States Steel Corp. Earnings Conference Call",
+   "transcript_datetime": "4/30/2013 7:00:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "B7F7569E-2732-42A1-88D7-77E991D672E2",
+   "name": "Q3 2010 Kenexa Earnings Conference Call",
+   "transcript_datetime": "11/2/2010 9:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "7E34BEB8-478A-430B-BFAF-629CF146BE07",
+   "name": "Q1 2018 Verizon Communications Inc Earnings Call",
+   "transcript_datetime": "4/24/2018 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "5F6592FE-71CE-4D5D-BF62-B1732EDEEAAA",
+   "name": "Q1 2014 Netflix, Inc. Earnings Conference Call",
+   "transcript_datetime": "4/21/2014 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "CF050810-E5B1-4CED-80D0-D25C485AA485",
+   "name": "Q2 2016 International Business Machines Corp Earnings Call",
+   "transcript_datetime": "7/18/2016 9:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "A9B3FF83-23DD-4CDF-9E95-B5ADF6915BBA",
+   "name": "Q1 2015 Verizon Communications Inc Earnings Call",
+   "transcript_datetime": "4/21/2015 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "F1D440B2-0CC1-4356-9E1E-7DD3B87C12F8",
+   "name": "Q3 2010 International Business Machines Earnings Conference Call",
+   "transcript_datetime": "10/18/2010 8:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "F32D8C80-DC13-4452-8E95-05DDC0699EF1",
+   "name": "Q1 2016 Tesla Motors Inc Earnings Call",
+   "transcript_datetime": "5/4/2016 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "B3917836-AC23-4BE0-9EBF-8A14C51CCFA2",
+   "name": "Q2 2013 Google Earnings Conference Call",
+   "transcript_datetime": "7/18/2013 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "1347264C-63C8-400F-BE51-3ED0DEAF2CB3",
+   "name": "Q2 2017 Netflix Inc Earnings Call",
+   "transcript_datetime": "7/17/2017 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "C8AD40EC-B2CF-4E66-8C67-6BA72DB2B8BE",
+   "name": "Q2 2011 Kenexa Corp Earnings Conference Call",
+   "transcript_datetime": "8/2/2011 9:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "A9606264-8932-4D15-9090-056ADDEDCF59",
+   "name": "Q1 2015 Tesla Motors Inc Earnings Call",
+   "transcript_datetime": "5/6/2015 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "F9EF743C-AFDA-45E1-AC74-D26C6426AC6C",
+   "name": "Q1 2012 International Business Machines Earnings Conference Call",
+   "transcript_datetime": "4/17/2012 8:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "9724734E-F3E6-4048-A2C6-C0090730BA1F",
+   "name": "Q3 2012 Apple Inc. Earnings Conference Call",
+   "transcript_datetime": "7/24/2012 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "041255A7-E280-4C7C-BCDF-4C48BA008036",
+   "name": "Q2 2011 International Business Machines Corp Earnings Conference Call",
+   "transcript_datetime": "7/18/2011 8:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "C0D246BB-E16F-4231-A148-25E3E323FA35",
+   "name": "Q2 2015 United States Steel Corp Earnings Call",
+   "transcript_datetime": "7/29/2015 12:30:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "282047AA-65B4-42F9-8759-84160016D494",
+   "name": "Q3 2011 Tesla Motors Inc Earnings Conference Call",
+   "transcript_datetime": "11/2/2011 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "F0B46491-80FB-42F4-A129-1A91187D24F1",
+   "name": "Q3 2016 Tesla Motors Inc Earnings Call",
+   "transcript_datetime": "10/26/2016 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "DC85898D-A99E-4888-B801-5A4F57A5980D",
+   "name": "Q4 2016 Apple Inc Earnings Call",
+   "transcript_datetime": "10/25/2016 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "56EBC139-9F69-430D-BB32-324910AB605E",
+   "name": "Q1 2011 United States Steel Corp Earnings Conference Call",
+   "transcript_datetime": "4/26/2011 7:00:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "3E83D6E3-593E-45B6-8685-13A05B7EE364",
+   "name": "Q4 2014 Netflix Inc Earnings Call",
+   "transcript_datetime": "1/20/2015 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "1CCC6EF3-AA15-4224-B979-1629DC266E6F",
+   "name": "Q2 2012 KENEXA CORP Earnings Conference Call",
+   "transcript_datetime": "8/7/2012 9:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "D3C4A22B-A863-4218-ADA4-2F9C8F4CE3E1",
+   "name": "Q4 2016 International Business Machines Corp Earnings Call",
+   "transcript_datetime": "1/19/2017 10:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "0E9D48AB-9028-49D4-B0A4-4E120EECE33E",
+   "name": "Q2 2017 Apple Inc Earnings Call",
+   "transcript_datetime": "5/2/2017 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "9150AEA1-50DF-4BB8-9FF9-D8F3532E87F6",
+   "name": "Q2 2014 Apple Inc. Earnings Conference Call",
+   "transcript_datetime": "4/23/2014 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "83EA93D7-0538-4FD3-A98D-2346EE37119E",
+   "name": "Q3 2011 International Business Machines Corp Earnings Conference Call",
+   "transcript_datetime": "10/17/2011 8:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "38092057-6593-4E28-88EE-DD18482D8D0E",
+   "name": "Q3 2015 Verizon Communications Inc Earnings Call",
+   "transcript_datetime": "10/20/2015 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "1127AAB8-74D3-4D1F-BBCE-169DDE56C37F",
+   "name": "Q1 2010 Apple Inc. Earnings Conference Call",
+   "transcript_datetime": "1/25/2010 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "9A6C2597-027F-47D3-8E84-AA6C4685D164",
+   "name": "Q4 2013 Apple Inc. Earnings Conference Call",
+   "transcript_datetime": "10/28/2013 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "3B5129EE-8B82-40C4-BC5D-CE8906D6B6A1",
+   "name": "Q2 2011 Verizon Earnings Conference Call",
+   "transcript_datetime": "7/22/2011 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "D004F836-4272-4144-A311-6D8F544CB8C8",
+   "name": "Q4 2017 Netflix Inc Earnings Video Interview",
+   "transcript_datetime": "1/22/2018 11:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "5335AE71-8033-4A6A-A915-FE3DD4EF38F3",
+   "name": "Q1 2012 KENEXA CORP Earnings Conference Call",
+   "transcript_datetime": "5/1/2012 9:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "193DFD27-F5A6-49AB-A862-C694A0A7B0F4",
+   "name": "Q3 2012 Netflix, Inc. Earnings Conference Call",
+   "transcript_datetime": "10/23/2012 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "99AE2BDC-EBDD-4FAD-BE76-9904598BE5A6",
+   "name": "Q1 2014 United States Steel Corp. Earnings Conference Call",
+   "transcript_datetime": "4/30/2014 12:30:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "C2C097C0-7FD6-448E-84DC-37F35B4CDBE3",
+   "name": "Q1 2010 Netflix Earnings Conference Call",
+   "transcript_datetime": "4/21/2010 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "AAC2E784-6933-47F3-9846-61EE9BE057F4",
+   "name": "Q1 2015 International Business Machines Corp Earnings Call",
+   "transcript_datetime": "4/20/2015 8:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "B5264A58-F34E-497B-B2B6-D4776F63DF61",
+   "name": "Q3 2012 TESLA MOTORS INC Earnings Conference Call",
+   "transcript_datetime": "11/5/2012 1:00:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "142588EC-C932-40C0-906F-765C685E0734",
+   "name": "Q3 2012 Verizon Earnings Conference Call",
+   "transcript_datetime": "10/18/2012 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "3B3C69B2-A6C6-4C28-9CCF-FF1252D423A9",
+   "name": "Q2 2018 Alphabet Inc Earnings Call",
+   "transcript_datetime": "7/23/2018 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "E80C8E32-216F-4A0B-AF62-DE023377AB27",
+   "name": "Q2 2015 Tesla Motors Inc Earnings Call",
+   "transcript_datetime": "8/5/2015 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "F1CA2F92-95C1-4E8B-9C7E-639EA80D8E34",
+   "name": "Q3 2010 Nike Earnings Conference Call",
+   "transcript_datetime": "3/17/2010 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "D2AD85FA-3313-4856-AB48-4C64E9A32750",
+   "name": "Q1 2015 Netflix Inc Earnings Call",
+   "transcript_datetime": "4/15/2015 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "48F1CF2C-54DD-41B7-B093-18E709C9D6E9",
+   "name": "Q2 2010 TESLA MOTORS INC Earnings Conference Call",
+   "transcript_datetime": "8/4/2010 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "93759044-852B-4F0C-8CCC-D2909C4107BF",
+   "name": "Q2 2014 Tesla Motors Inc Earnings Call",
+   "transcript_datetime": "7/31/2014 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "82F6B7C8-5945-439D-9A90-0FC4D30C6AA3",
+   "name": "Q3 2014 Netflix Inc Earnings Call",
+   "transcript_datetime": "10/15/2014 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "6FAD4DAE-9EAB-4838-A497-548A1285FD80",
+   "name": "Q3 2017 Apple Inc Earnings Call",
+   "transcript_datetime": "8/1/2017 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "D9DC7A04-BDBB-4DB8-B5B1-70EDFD585902",
+   "name": "Q1 2011 Netflix Inc Earnings Conference Call",
+   "transcript_datetime": "4/25/2011 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "A3DE62A4-9B92-429A-9B5A-67E24664426A",
+   "name": "Q2 2012 TESLA MOTORS INC Earnings Conference Call",
+   "transcript_datetime": "7/25/2012 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "8EF85C3A-D740-47EB-9AB5-C158E972E4A5",
+   "name": "Q1 2011 Verizon Earnings Conference Call",
+   "transcript_datetime": "4/21/2011 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "3398DD7E-760F-4D27-9328-E329AA4E6537",
+   "name": "Q2 2014 Nike Earnings Conference Call",
+   "transcript_datetime": "12/19/2013 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "DB213BCA-9B6C-4FAE-97DD-E193DCC96B63",
+   "name": "Q1 2012 United States Steel Corp. Earnings Conference Call",
+   "transcript_datetime": "4/24/2012 6:00:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "121C58CF-8234-473A-B04E-90184577BEB0",
+   "name": "Q2 2018 Verizon Communications Inc Earnings Call",
+   "transcript_datetime": "7/24/2018 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "692396FC-D5C3-4ACA-9B0A-8CB89993697B",
+   "name": "Apple® FY 10 Second Quarter Results Conference Call",
+   "transcript_datetime": "4/20/2010 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "0D478358-630E-4985-95C5-F88131DDAB39",
+   "name": "Q1 2010 United States Steel Corp. Earnings Conference Call",
+   "transcript_datetime": "4/27/2010 6:00:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "A8B33CB9-B495-41DA-B253-C6B462168290",
+   "name": "Q3 2018 Apple Inc Earnings Call",
+   "transcript_datetime": "7/31/2018 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "F9E12C6D-1883-4F79-A042-3F95D30AA4D8",
+   "name": "Q1 2017 Alphabet Inc Earnings Call",
+   "transcript_datetime": "4/27/2017 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "15BC3A74-CE54-45EF-8052-D6A56098C5AB",
+   "name": "Q2 2017 Verizon Communications Inc Earnings Call",
+   "transcript_datetime": "7/27/2017 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "6BDD2F21-47AA-46F2-A60D-55159F84CE5B",
+   "name": "Q3 2012 Google Earnings Conference Call",
+   "transcript_datetime": "10/18/2012 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "B0522859-C80A-45B2-8B20-46D9090D1EC7",
+   "name": "Q1 2016 Apple Inc Earnings Call",
+   "transcript_datetime": "1/26/2016 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "04078ED3-9588-42A2-8919-82DA7FFA3332",
+   "name": "Q1 2017 Netflix Inc Earnings Call",
+   "transcript_datetime": "4/17/2017 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "9ACC6FDD-EB90-4FC5-AAE9-DE0D5C378732",
+   "name": "Q4 2017 Nike Inc Earnings Call",
+   "transcript_datetime": "6/29/2017 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "5A2FC654-E84B-4273-A513-76F28FB677A8",
+   "name": "Q4 2009 Verizon Earnings Conference Call",
+   "transcript_datetime": "1/26/2010 1:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "6C6F6FBA-73A3-4B3B-AF20-CDD35BE931A2",
+   "name": "Q1 2014 Nike Earnings Conference Call",
+   "transcript_datetime": "9/26/2013 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "92F94910-0C74-46D4-A7BE-1ACD1C88F241",
+   "name": "Q4 2013 Verizon Earnings Conference Call",
+   "transcript_datetime": "1/21/2014 1:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "635210B4-0A9C-4B55-A2DC-B28F22EDF33F",
+   "name": "Q1 2017 Apple Inc Earnings Call",
+   "transcript_datetime": "1/31/2017 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "A6C40F96-7E42-4894-AF4C-971190D213B3",
+   "name": "Q2 2016 Tesla Motors Inc Earnings Call",
+   "transcript_datetime": "8/3/2016 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "F841DD13-1D10-4855-A0BF-D4AB98D5017A",
+   "name": "Q1 2017 United States Steel Corp Earnings Call",
+   "transcript_datetime": "4/26/2017 12:30:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "144B9283-6632-4529-B4A6-E6EF70F375AC",
+   "name": "Q4 2011 Apple Inc Earnings Conference Call",
+   "transcript_datetime": "10/18/2011 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "B60934AE-F182-4FAF-ACD5-5AF32E451889",
+   "name": "Q3 2013 Verizon Earnings Conference Call",
+   "transcript_datetime": "10/17/2013 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "B44FC962-8FC6-45F3-9544-4BE3178692D6",
+   "name": "Q2 2012 Nike Inc Earnings Conference Call",
+   "transcript_datetime": "12/20/2011 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "6483EE75-FB91-4D3A-8407-E27F94BE2D77",
+   "name": "Q3 2010 Apple Inc. Earnings Conference Call",
+   "transcript_datetime": "7/20/2010 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "0E6AD413-11C7-4088-8239-C044BFAB673D",
+   "name": "Q4 2017 Alphabet Inc Earnings Call",
+   "transcript_datetime": "2/1/2018 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "538CF207-17A9-4833-BA24-EC20504BA913",
+   "name": "Q3 2015 Tesla Motors Inc Earnings Call",
+   "transcript_datetime": "11/3/2015 10:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "C7D240E9-AAA6-46CB-8700-E440CD905AAB",
+   "name": "Q1 2010 Kenexa Earnings Conference Call",
+   "transcript_datetime": "5/4/2010 9:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "0686F471-01A1-4FB1-8C98-6F090EF8379A",
+   "name": "Q1 2016 Nike Inc Earnings Call",
+   "transcript_datetime": "9/24/2015 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "9255D991-7963-4F9E-9569-0B6663175F96",
+   "name": "Q3 2014 Google Inc Earnings Call",
+   "transcript_datetime": "10/16/2014 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "CDD044FC-FEC8-4F68-A587-8F18261D6A31",
+   "name": "Q1 2016 Alphabet Inc Earnings Call",
+   "transcript_datetime": "4/21/2016 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "A351C60E-F86B-4463-9189-5E3245DFD268",
+   "name": "Q2 2014 Google Inc Earnings Call",
+   "transcript_datetime": "7/17/2014 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "16C7EC72-9636-4697-AE63-CC4526973BDD",
+   "name": "Q2 2016 Apple Inc Earnings Call",
+   "transcript_datetime": "4/26/2016 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "F0DE0D60-08F1-4C7F-9CA6-400A6ABDE8AB",
+   "name": "Q4 2014 Google Inc Earnings Call",
+   "transcript_datetime": "1/29/2015 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "E2277B8F-6F1A-4762-9BBE-FA332C259B7B",
+   "name": "Q4 2015 Verizon Communications Inc Earnings Call",
+   "transcript_datetime": "1/21/2016 1:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "796B3E55-A81A-47AD-A4CD-A7BC84BF5A8F",
+   "name": "Q2 2018 Netflix Inc Earnings Video Interview",
+   "transcript_datetime": "7/16/2018 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "63DD04DC-8D17-480F-B269-47117A65D61F",
+   "name": "Q3 2012 United States Steel Corp. Earnings Conference Call",
+   "transcript_datetime": "10/30/2012 6:00:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "512EC5F1-3982-4F2B-9206-E0ECDA8D7E28",
+   "name": "Q1 2018 United States Steel Corp Earnings Call",
+   "transcript_datetime": "4/27/2018 12:30:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "5B625960-C5EB-46F0-B4B6-93172848A9D2",
+   "name": "Q2 2012 International Business Machines Earnings Conference Call",
+   "transcript_datetime": "7/18/2012 8:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "49EC8907-90BD-4673-A226-4F0CD389AE33",
+   "name": "Q3 2013 United States Steel Corp. Earnings Conference Call",
+   "transcript_datetime": "10/29/2013 7:00:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "39DB6160-47C8-45F6-BC01-F06D46A27C0F",
+   "name": "Q2 2012 Netflix, Inc. Earnings Conference Call",
+   "transcript_datetime": "7/24/2012 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "91B3D3E2-F167-483F-B225-06268FA229D7",
+   "name": "Q2 2018 International Business Machines Corp Earnings Call",
+   "transcript_datetime": "7/18/2018 9:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "606078A3-5ED4-46F9-9CBB-620AA22C47CD",
+   "name": "Q4 2013 International Business Machines Earnings Conference Call",
+   "transcript_datetime": "1/21/2014 9:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "C3224995-EEF5-49D9-B844-F72A3B32ECF6",
+   "name": "Q4 2011 International Business Machines Earnings Conference Call",
+   "transcript_datetime": "1/19/2012 9:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "47EAFCD7-B919-4C36-A683-D93C5D73D8F2",
+   "name": "Q3 2017 Netflix Inc Earnings Call",
+   "transcript_datetime": "10/16/2017 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "BF979FF8-610E-4E2C-9442-3065A8AA2DDA",
+   "name": "Q3 2016 Alphabet Inc Earnings Call",
+   "transcript_datetime": "10/27/2016 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "B3EC1A1E-BF6A-4C9F-AE28-356F8E781D07",
+   "name": "Q1 2018 Alphabet Inc Earnings Call",
+   "transcript_datetime": "4/23/2018 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "7ACFFA01-AFF3-4228-BBDF-33AB09B4E37D",
+   "name": "Q4 2010 TESLA MOTORS INC Earnings Conference Call",
+   "transcript_datetime": "2/15/2011 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "64EC6300-989F-4C58-9619-69A3F872C2F5",
+   "name": "Q2 2018 Tesla Inc Earnings Call",
+   "transcript_datetime": "8/1/2018 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "ABE0C5BC-968B-4673-B7AA-C5BEB205FD07",
+   "name": "Q1 2017 Tesla Inc Earnings Call",
+   "transcript_datetime": "5/3/2017 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "DFCA49CD-5000-4620-9799-C2963CED64B4",
+   "name": "Q4 2011 Google Earnings Conference Call",
+   "transcript_datetime": "1/19/2012 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "2BAEC774-8C48-4B29-885E-715A836EB509",
+   "name": "Q3 2010 Google Earnings Conference Call",
+   "transcript_datetime": "10/14/2010 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "C93C26F7-6E87-4978-A9A7-DAAFDECCA229",
+   "name": "Q4 2014 Tesla Motors Inc Earnings Call",
+   "transcript_datetime": "2/12/2015 12:30:00 AM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "F15302BD-8582-44BF-93F5-4A13E237023E",
+   "name": "Q1 2010 International Business Machines Earnings Conference Call",
+   "transcript_datetime": "4/19/2010 8:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "0F936D57-DBB1-4B05-A1AB-1A95DBEADC10",
+   "name": "Q3 2013 Google Earnings Conference Call",
+   "transcript_datetime": "10/17/2013 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "CDDF6DA1-9562-4420-BC42-D4BFF61513B9",
+   "name": "Q1 2011 International Business Machines Corp Earnings Conference Call",
+   "transcript_datetime": "4/19/2011 8:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "C7355CD4-4A4C-40D8-8E31-30841FB311DA",
+   "name": "Q3 2013 Apple Inc. Earnings Conference Call",
+   "transcript_datetime": "7/23/2013 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "35A9B16F-64E7-47A7-B9A3-3DF5F084BBD1",
+   "name": "Q2 2015 Verizon Communications Inc Earnings Call",
+   "transcript_datetime": "7/21/2015 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "FE74802A-2377-4CE9-85FA-B7764EE923C6",
+   "name": "Q4 2017 Tesla Inc Earnings Call",
+   "transcript_datetime": "2/7/2018 10:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "D2FF4580-409D-486E-90E5-4BE15D62E566",
+   "name": "Q1 2012 NIKE Inc Earnings Conference Call",
+   "transcript_datetime": "9/22/2011 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "E35677D7-1CEF-4D67-9185-107D4420F0D4",
+   "name": "Q1 2011 NIKE, Inc. Earnings Conference Call",
+   "transcript_datetime": "9/23/2010 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "6642C1F1-F821-4863-826C-2F230CC9491B",
+   "name": "Q2 2012 United States Steel Corp. Earnings Conference Call",
+   "transcript_datetime": "7/31/2012 7:00:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "7EEE4997-3AF2-4CAE-88C3-83D1E8686C34",
+   "name": "Q2 2011 Nike Earnings Conference Call",
+   "transcript_datetime": "12/21/2010 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "20986C1A-3739-4D03-8E7D-F3321F60C395",
+   "name": "Q4 2014 Apple Inc Earnings Call",
+   "transcript_datetime": "10/20/2014 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "598BE0E6-ABC0-4D56-83C2-69F20DDE842A",
+   "name": "Q2 2015 Apple Inc Earnings Call",
+   "transcript_datetime": "4/27/2015 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "12B81CD6-964F-4DC6-A6DB-7CBED40C5464",
+   "name": "Q4 2014 United States Steel Corp Earnings Call",
+   "transcript_datetime": "1/28/2015 1:30:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "7F7A2D1C-6485-451A-BD15-4FFAB6D16992",
+   "name": "Q4 2011 KENEXA CORP Earnings Conference Call",
+   "transcript_datetime": "2/6/2012 10:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "A4885379-4EB8-4743-A719-06F71DF7B183",
+   "name": "Q2 2015 International Business Machines Corp Earnings Call",
+   "transcript_datetime": "7/20/2015 8:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "966FF326-E7DB-465E-BBA4-E0D223268B36",
+   "name": "Q2 2010 United States Steel Corp. Earnings Conference Call",
+   "transcript_datetime": "7/27/2010 6:00:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "B73B7CD2-93D5-4489-896B-935DC68E5A10",
+   "name": "Q2 2015 Nike Inc Earnings Call",
+   "transcript_datetime": "12/18/2014 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "25F10AEC-BDD9-4273-8142-74E4B9E7E4A2",
+   "name": "Q3 2014 United States Steel Corp Earnings Call",
+   "transcript_datetime": "10/29/2014 12:30:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "5169557C-7062-4B64-8BD0-8D30A3E6FB3B",
+   "name": "Q1 2011 Google Inc Earnings Conference Call",
+   "transcript_datetime": "4/14/2011 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "022AD03B-C29F-4CF1-864C-80780C9F9382",
+   "name": "Q3 2017 Verizon Communications Inc Earnings Call",
+   "transcript_datetime": "10/19/2017 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "2A5458FB-3FC6-4F14-8C1A-417CB4FFF8CF",
+   "name": "Q1 2011 Apple Inc. Earnings Conference Call",
+   "transcript_datetime": "1/18/2011 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "3B35031E-FEBF-43F1-84C3-39CDD8F0FBEF",
+   "name": "Q3 2010 Netflix Earnings Conference Call",
+   "transcript_datetime": "10/20/2010 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "480B028E-EAB6-4365-A426-2BB54879AACB",
+   "name": "Q4 2018 Nike Inc Earnings Call",
+   "transcript_datetime": "6/28/2018 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "E23A6A08-34DA-46FC-BB1E-F29B3C9C0236",
+   "name": "Q4 2015 Netflix Inc Earnings Call",
+   "transcript_datetime": "1/19/2016 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "B9E68AC4-680B-4937-A323-06386A6142FF",
+   "name": "Q2 2015 Google Inc Earnings Call",
+   "transcript_datetime": "7/16/2015 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "C6EFB4E8-98E9-477E-A026-0EA8593CCB42",
+   "name": "Q3 2012 International Business Machines Earnings Conference Call",
+   "transcript_datetime": "10/16/2012 8:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "519DB236-27A1-40A1-B5C9-2941C822F552",
+   "name": "Q4 2012 Verizon Earnings Conference Call",
+   "transcript_datetime": "1/22/2013 1:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "C5E37059-1E97-487C-9E69-AAD4259BD347",
+   "name": "Q1 2016 Netflix Inc Earnings Call",
+   "transcript_datetime": "4/18/2016 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "A9801B2D-59D8-49AA-A171-F20CFCD4F8C4",
+   "name": "Q2 2017 United States Steel Corp Earnings Call",
+   "transcript_datetime": "7/26/2017 12:30:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "790B2BC6-53F8-4FF6-A4FE-A10186F70E66",
+   "name": "Q1 2011 Kenexa Corp Earnings Conference Call",
+   "transcript_datetime": "5/3/2011 9:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "4C88CE1E-F30C-4250-8F0B-B74D8474ACDD",
+   "name": "Q2 2011 Google Inc Earnings Conference Call",
+   "transcript_datetime": "7/14/2011 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "D18E1F6C-9F29-4B95-B1DE-6A2F393BE1A0",
+   "name": "Q1 2013 TESLA MOTORS INC Earnings Conference Call",
+   "transcript_datetime": "5/8/2013 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "A677E7BE-6856-4754-9B85-3B659A5E2D52",
+   "name": "Q3 2016 Nike Inc Earnings Call",
+   "transcript_datetime": "3/22/2016 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "59C06C3D-F628-4A5A-AF32-73F5B9947E0F",
+   "name": "Q3 2016 Verizon Communications Inc Earnings Call",
+   "transcript_datetime": "10/20/2016 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "09CE9334-1B19-4AC3-866B-D65EC13D55E6",
+   "name": "Q2 2013 United States Steel Corp. Earnings Conference Call",
+   "transcript_datetime": "7/30/2013 6:30:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "F543F1B2-A7D2-42BE-9F5D-34AF489F0812",
+   "name": "Q1 2013 Google Earnings Conference Call",
+   "transcript_datetime": "4/18/2013 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "B2398A3A-A870-442E-9315-4D28423396B9",
+   "name": "Q4 2009 Google Earnings Conference Call",
+   "transcript_datetime": "1/21/2010 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "F61DDC37-800B-40CA-9E53-F89AD086E5A3",
+   "name": "Q3 2015 Nike Inc Earnings Call",
+   "transcript_datetime": "3/19/2015 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "088CF32D-2F3D-4265-BFBD-7F2DEA883D5B",
+   "name": "Q4 2016 Tesla Inc Earnings Call",
+   "transcript_datetime": "2/22/2017 10:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "D4376EFD-9E98-4E60-BB20-72E03A172073",
+   "name": "Q4 2013 United States Steel Corp. Earnings Conference Call",
+   "transcript_datetime": "1/28/2014 9:00:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "9CFECA5A-9164-4951-A81D-7223EEF44D02",
+   "name": "Q1 2013 Netflix, Inc. Earnings Conference Call",
+   "transcript_datetime": "4/22/2013 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "41AB1682-28B2-42E4-94F9-D537E672E3E2",
+   "name": "Q2 2010 Kenexa Earnings Conference Call",
+   "transcript_datetime": "8/3/2010 9:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "7C050916-2CAA-40FB-9521-E9C46C544529",
+   "name": "Q2 2010 Google Earnings Conference Call",
+   "transcript_datetime": "7/15/2010 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "0754EA5D-4D01-4BD4-80AD-5722CC17C2C7",
+   "name": "Q2 2012 Verizon Earnings Conference Call",
+   "transcript_datetime": "7/19/2012 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "D0FE2007-1BFD-414D-9DCC-A09D3C9852F1",
+   "name": "Q2 2014 United States Steel Corp Earnings Call",
+   "transcript_datetime": "7/30/2014 12:30:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "16FCC6F6-0A40-42DE-A0CE-1D2850097535",
+   "name": "Q2 2014 Verizon Earnings Conference Call",
+   "transcript_datetime": "7/22/2014 11:30:00 AM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "B28CE15F-8DAC-4986-A0A4-3FA06E86A344",
+   "name": "Q3 2012 Nike Earnings Conference Call",
+   "transcript_datetime": "3/22/2012 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "9CE4478E-2F35-4820-B534-B62469534B12",
+   "name": "Q4 2016 Alphabet Inc Earnings Call",
+   "transcript_datetime": "1/26/2017 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "483DF182-0BE3-4F83-9AE5-2F2BB14FD100",
+   "name": "Q3 2014 Tesla Motors Inc Earnings Call",
+   "transcript_datetime": "11/5/2014 10:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "41DB1BF5-338A-4B0D-8943-8DD3F8DC670B",
+   "name": "Q4 2009 Google Q&A Session",
+   "transcript_datetime": "1/21/2010 11:00:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "10CA984C-3719-45F2-A2B3-E1F16FDD4557",
+   "name": "Q3 2013 TESLA MOTORS INC Earnings Conference Call",
+   "transcript_datetime": "11/5/2013 10:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "85A8D033-DA1F-4259-8FB0-12E36B506F31",
+   "name": "Q2 2018 Apple Inc Earnings Call",
+   "transcript_datetime": "5/1/2018 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "9D26245E-FA03-49DA-A3F6-0594359291C3",
+   "name": "Q3 2011 Netflix Inc Earnings Conference Call",
+   "transcript_datetime": "10/24/2011 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "A3A804A9-D2D8-4AA1-95DD-04D0410DDCBF",
+   "name": "Q2 2011 Tesla Motors Inc Earnings Conference Call",
+   "transcript_datetime": "8/3/2011 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "38699872-FCFA-4FC6-B88E-BE1E2E90BD28",
+   "name": "Q2 2012 Google Earnings Conference Call",
+   "transcript_datetime": "7/19/2012 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "A755C9A5-D166-4519-BFDF-692D4C8DB1CD",
+   "name": "Q3 2011 United States Steel Corp Earnings Conference Call",
+   "transcript_datetime": "10/25/2011 6:00:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "B8C38C8A-E193-4F88-9D3A-10DD78E24EF1",
+   "name": "Q3 2017 Tesla Inc Earnings Call",
+   "transcript_datetime": "11/1/2017 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "2A254982-F0CF-476C-BCF7-FB9B2C367B7D",
+   "name": "Q2 2012 Apple Inc. Earnings Conference Call",
+   "transcript_datetime": "4/24/2012 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "232C475B-671A-4C48-8CCD-C9EF7895CF5D",
+   "name": "Q4 2013 Nike Earnings Conference Call",
+   "transcript_datetime": "6/27/2013 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "3B831DC8-D300-4601-A157-4222A4440DE3",
+   "name": "Q2 2010 Netflix Earnings Conference Call",
+   "transcript_datetime": "7/21/2010 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "A95B99EF-5B1C-4EF3-A108-D21FC3BF4691",
+   "name": "Q4 2009 Netflix Earnings Conference Call",
+   "transcript_datetime": "1/27/2010 11:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "F2ED0EF7-1C9A-403B-971C-29F6DA3D3533",
+   "name": "Q2 2011 United States Steel Corp Earnings Conference Call",
+   "transcript_datetime": "7/26/2011 6:00:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "47B6D7E7-F6A0-42D4-8350-A03D7E983DBB",
+   "name": "Q3 2014 Apple Inc Earnings Call",
+   "transcript_datetime": "7/22/2014 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "0A45BDC0-BC27-4C4D-ABCB-6559ED10F3E1",
+   "name": "Q1 2010 Verizon Earnings Conference Call",
+   "transcript_datetime": "4/22/2010 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "DE82437E-B9FE-429A-B6D6-939D5D2E6E34",
+   "name": "Q4 2012 Nike Earnings Conference Call",
+   "transcript_datetime": "6/28/2012 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "A65AA9E1-E80F-401E-A962-2C22816BEAAF",
+   "name": "Q3 2014 Nike Earnings Conference Call",
+   "transcript_datetime": "3/20/2014 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "7CD0608E-62CA-41D8-AD16-7A4FD77A8FD1",
+   "name": "Q2 2016 United States Steel Corp Earnings Call",
+   "transcript_datetime": "7/27/2016 12:30:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "97B7FCF3-1546-4027-A06A-611F7E32BAB8",
+   "name": "Q3 2018 Nike Inc Earnings Call",
+   "transcript_datetime": "3/22/2018 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "CCA833A6-4955-4A32-875A-A4AC81ABA959",
+   "name": "Q1 2016 Verizon Communications Inc Earnings Call",
+   "transcript_datetime": "4/21/2016 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "6CD2B69F-630A-4AAF-B5E7-C0EECCE32A9D",
+   "name": "Q1 2017 International Business Machines Corp Earnings Call",
+   "transcript_datetime": "4/18/2017 9:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "09497FB9-3129-45B0-B823-C195ED547898",
+   "name": "Q2 2017 Tesla Inc Earnings Call",
+   "transcript_datetime": "8/2/2017 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "85CA13B7-2E5A-4FCA-8183-A16910214F1A",
+   "name": "Q1 2012 Netflix, Inc. Earnings Conference Call",
+   "transcript_datetime": "4/23/2012 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "02BC1187-FB41-4406-BF32-258D67DBB249",
+   "name": "Q2 2013 Apple Inc. Earnings Conference Call",
+   "transcript_datetime": "4/23/2013 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "B8A9596A-CE24-4297-97E8-394A9256BED1",
+   "name": "Q4 2010 Google Earnings Conference Call",
+   "transcript_datetime": "1/20/2011 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "E9DA5AD0-E0E6-4D83-8442-396899DB448C",
+   "name": "Q4 2015 Apple Inc Earnings Call",
+   "transcript_datetime": "10/27/2015 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "686EE6DD-8A08-44E1-9A68-B30B71FEDCF6",
+   "name": "Q4 2012 Netflix, Inc. Earnings Conference Call",
+   "transcript_datetime": "1/23/2013 11:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "FCE597EF-44E9-4F87-87E6-076CEA470403",
+   "name": "Q4 2012 Apple Inc. Earnings Conference Call",
+   "transcript_datetime": "10/25/2012 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "24282FE3-1BB0-48D5-82B7-CC3D249AC9A7",
+   "name": "Q4 2015 International Business Machines Corp Earnings Call",
+   "transcript_datetime": "1/19/2016 10:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "954B4BE5-E15E-4853-B568-9E0ACC2B9704",
+   "name": "Q3 2017 Nike Inc Earnings Call",
+   "transcript_datetime": "3/21/2017 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "C351BD9F-5AAB-4F8F-A9B4-5B071E390780",
+   "name": "Q4 2012 TESLA MOTORS INC Earnings Conference Call",
+   "transcript_datetime": "2/20/2013 10:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "2C72FB9C-103A-442C-96E2-3A561200D3B6",
+   "name": "Q2 2014 International Business Machines Earnings Conference Call",
+   "transcript_datetime": "7/17/2014 8:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "62D77970-9FF5-4DA0-B97D-016D0A05A950",
+   "name": "Q3 2011 Google Inc Earnings Conference Call",
+   "transcript_datetime": "10/13/2011 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "74F7F41A-9464-4201-85E0-F47BA2FC28D9",
+   "name": "Q3 2011 Verizon Communications Inc Earnings Conference Call",
+   "transcript_datetime": "10/21/2011 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "65D51334-63E0-4889-BE95-C1C80ACAACC3",
+   "name": "Q1 2014 TESLA MOTORS INC Earnings Conference Call",
+   "transcript_datetime": "5/7/2014 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "5E3DAD8F-C306-4C47-8B6F-E4DA9105E0F4",
+   "name": "Q4 2015 Alphabet Inc Earnings Call",
+   "transcript_datetime": "2/1/2016 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "48EF4670-FC86-4B01-A366-0E4B84D2F36D",
+   "name": "Q4 2013 TESLA MOTORS INC Earnings Conference Call",
+   "transcript_datetime": "2/19/2014 10:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "C92A8DAF-2E42-4199-8573-1E69BBA92A43",
+   "name": "Q2 2017 Alphabet Inc Earnings Call",
+   "transcript_datetime": "7/24/2017 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "397AD49D-1349-47EE-ADE3-0323CC9AF36B",
+   "name": "Q4 2013 Netflix, Inc. Earnings Conference Call",
+   "transcript_datetime": "1/22/2014 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "FAA5A0BE-E95E-46C2-923C-C3884940DBEB",
+   "name": "Q4 2010 United States Steel Corp. Earnings Conference Call",
+   "transcript_datetime": "1/25/2011 8:00:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "2443F451-3709-45DE-85AB-09F01046D38F",
+   "name": "Q3 2015 Apple Inc Earnings Call",
+   "transcript_datetime": "7/21/2015 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "F75B4A8F-0621-4D75-8029-8CFEEF21F04B",
+   "name": "Q4 2012 Google Earnings Conference Call",
+   "transcript_datetime": "1/22/2013 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "BB7DE5CA-A1B7-4F4D-9FAC-210E8AD0B3D9",
+   "name": "Q4 2017 International Business Machines Corp Earnings Call",
+   "transcript_datetime": "1/18/2018 10:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "DF57A7CE-BD2C-446B-91D6-4248A52F7FD4",
+   "name": "Q1 2015 Apple Inc Earnings Call",
+   "transcript_datetime": "1/27/2015 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "CEF234F9-2597-4521-AF85-5889C5CC098F",
+   "name": "Q4 2013 Google Earnings Conference Call",
+   "transcript_datetime": "1/30/2014 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "21906144-C656-4128-AB69-2C26FF0DABCD",
+   "name": "Q2 2017 International Business Machines Corp Earnings Call",
+   "transcript_datetime": "7/18/2017 9:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "4487DC45-D4D0-4C18-A394-471B3406BB98",
+   "name": "Q4 2011 TESLA MOTORS INC Earnings Conference Call",
+   "transcript_datetime": "2/15/2012 10:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "925801F9-9423-4200-8209-1964695C0AE7",
+   "name": "Q4 2016 Verizon Communications Inc Earnings Call",
+   "transcript_datetime": "1/24/2017 1:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "CB0FEDE7-757A-46C5-8F17-A4EBA9AED648",
+   "name": "Q3 2016 Apple Inc Earnings Call",
+   "transcript_datetime": "7/26/2016 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "66479379-1352-4ED4-961F-BBF897203599",
+   "name": "Q2 2016 Nike Inc Earnings Call",
+   "transcript_datetime": "12/22/2015 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "5BB7E6D1-D39F-4C8B-9E7A-131D790032A4",
+   "name": "Q4 2010 Verizon Earnings and Investor Meeting",
+   "transcript_datetime": "1/25/2011 1:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "5654A72D-4071-4473-ADA3-03326D1B91F9",
+   "name": "Q1 2011 Tesla Motors Inc Earnings Conference Call",
+   "transcript_datetime": "5/4/2011 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "1C5DF126-EC0D-4846-A903-757EC65C2FA5",
+   "name": "Q1 2014 Verizon Earnings Conference Call",
+   "transcript_datetime": "4/24/2014 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "5FBBFDE7-6DA4-4123-8449-9D84BC3BB87A",
+   "name": "Q3 2011 Kenexa Corp Earnings Conference Call",
+   "transcript_datetime": "11/1/2011 9:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "68B8CCA3-E289-4118-9A6F-FC92BFCDDB20",
+   "name": "Q2 2015 Netflix Inc Earnings Call",
+   "transcript_datetime": "7/15/2015 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "99BFBD5E-1353-4C2F-8663-9D4E671F644A",
+   "name": "Q1 2018 Netflix Inc Earnings Call",
+   "transcript_datetime": "4/16/2018 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "D931730C-F0A7-43FC-9DD1-C020EDE08CC6",
+   "name": "Q3 2013 Nike Earnings Conference Call",
+   "transcript_datetime": "3/21/2013 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "9CB25B2E-0ACE-4271-B682-DD1E16F93D02",
+   "name": "Q4 2010 International Business Machines Earnings Conference Call",
+   "transcript_datetime": "1/18/2011 9:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "3F012787-C9E9-445A-8BB1-A7229E2B029E",
+   "name": "Q1 2018 Tesla Inc Earnings Call",
+   "transcript_datetime": "5/2/2018 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "EDE250C6-A530-45F1-A33E-D6B1AEB408A9",
+   "name": "Q4 2016 Nike Inc Earnings Call",
+   "transcript_datetime": "6/28/2016 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "A9102BE8-5B7F-4D53-A266-A9BC79660DAC",
+   "name": "Q1 2012 Verizon Earnings Conference Call",
+   "transcript_datetime": "4/19/2012 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "21D8F69B-ADED-4F34-873D-C2546840247F",
+   "name": "Q2 2013 Nike Earnings Conference Call",
+   "transcript_datetime": "12/20/2012 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "48744ED8-2A7B-4AEC-9E4F-F89308F15476",
+   "name": "Q2 2010 Verizon Earnings Conference Call",
+   "transcript_datetime": "7/23/2010 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "34017526-27CC-4AA1-9B19-09532C6C1D42",
+   "name": "Q1 2016 International Business Machines Corp Earnings Call",
+   "transcript_datetime": "4/18/2016 9:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "E145D728-14A9-4EA1-9B49-4F276BE2062A",
+   "name": "Q2 2013 International Business Machines Earnings Conference Call",
+   "transcript_datetime": "7/17/2013 8:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "1B28ABC9-AF6D-418F-BE5F-9D92F4E8CCCD",
+   "name": "Q2 2013 Netflix, Inc. Earnings Conference Call",
+   "transcript_datetime": "7/22/2013 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "499CC836-7464-4A89-9D48-6CF76A25D898",
+   "name": "Q1 2012 Google Earnings Conference Call",
+   "transcript_datetime": "4/12/2012 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "F54EE6E2-65DE-43F6-9D75-42F15C105AC6",
+   "name": "Q1 2018 International Business Machines Corp Earnings Call",
+   "transcript_datetime": "4/17/2018 9:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "8E694AF1-E1A9-47EA-B103-AFFE2AC43390",
+   "name": "Q3 2015 International Business Machines Corp Earnings Call",
+   "transcript_datetime": "10/19/2015 9:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "60D1BF15-5B44-44D6-96CE-7A5E6CF94298",
+   "name": "Q2 2013 TESLA MOTORS INC Earnings Conference Call",
+   "transcript_datetime": "8/7/2013 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "98DE15DE-B7C9-49AB-AC96-D9A6F65A2343",
+   "name": "Q1 2014 Apple Inc. Earnings Conference Call",
+   "transcript_datetime": "1/27/2014 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "C380095A-CFE5-4D51-8DBB-9EB791CB8EC0",
+   "name": "Q4 2017 United States Steel Corp Earnings Call",
+   "transcript_datetime": "2/1/2018 1:30:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "F6B53DC0-9EB1-4DCA-B564-C20E53FFE8DD",
+   "name": "Q4 2017 Verizon Communications Inc Earnings Call",
+   "transcript_datetime": "1/23/2018 1:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "971EDFFD-52CE-4EFD-AAF2-495B2E7F306D",
+   "name": "Q2 2011 Netflix Inc Earnings Conference Call",
+   "transcript_datetime": "7/25/2011 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "AFB3F331-F036-4771-8631-5819C479CE5E",
+   "name": "Q2 2016 Verizon Communications Inc Earnings Call",
+   "transcript_datetime": "7/26/2016 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "C2630E5E-14A7-4511-BA8E-7C71AD68D862",
+   "name": "Q3 2011 Apple Inc Earnings Conference Call",
+   "transcript_datetime": "7/19/2011 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "DD9490A1-97AE-42F9-AA3F-FC35A8C8C78D",
+   "name": "Q4 2015 Tesla Motors Inc Earnings Call",
+   "transcript_datetime": "2/10/2016 10:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "B7013D88-D52B-46DD-AFF0-D34FC7D133AD",
+   "name": "Q2 2014 Netflix Inc Earnings Call",
+   "transcript_datetime": "7/21/2014 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "F049846F-E048-43AA-86E3-5869EEF47B53",
+   "name": "Q3 2014 Verizon Earnings Conference Call",
+   "transcript_datetime": "10/21/2014 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "2E9B3231-307D-4395-8A38-CA88C4F1FB0D",
+   "name": "Q3 2015 United States Steel Corp Earnings Call",
+   "transcript_datetime": "11/4/2015 1:30:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "F2965BC3-EB60-4159-8694-88A7121727F2",
+   "name": "Q4 2011 Verizon Earnings Conference Call",
+   "transcript_datetime": "1/24/2012 1:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "0D03A2EE-2A2F-4BCD-B95B-D9FEB2B1E18F",
+   "name": "Q1 2018 Nike Inc Earnings Call",
+   "transcript_datetime": "9/26/2017 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "D8C29AA6-FAF9-443A-AE87-AD497C2515EF",
+   "name": "Q4 2011 Netflix, Inc. Earnings Q&A Session Conference Call",
+   "transcript_datetime": "1/25/2012 11:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "19470985-6086-4E2B-A16F-43A3303E6ED5",
+   "name": "Q3 2011 Nike Earnings Conference Call",
+   "transcript_datetime": "3/17/2011 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "A88C94CC-6D3B-485D-879B-668D2B85F5DC",
+   "name": "Q4 2010 Nike Earnings Conference Call",
+   "transcript_datetime": "6/23/2010 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "6B6938AE-4444-4863-B6D2-ABA13BBDE92A",
+   "name": "Q1 2013 Verizon Earnings Conference Call",
+   "transcript_datetime": "4/18/2013 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "2E20EC97-97B0-4677-83B1-E19B963FD794",
+   "name": "Q1 2012 TESLA MOTORS INC Earnings Conference Call",
+   "transcript_datetime": "5/9/2012 9:30:00 PM",
+   "value": 0.1,
+   "organization": "Tesla Inc",
+   "ticker": "TSLA.OQ"
+ },
+ {
+   "transcript_id": "9484583F-8612-4963-BE8B-26F696E1DEFB",
+   "name": "Q1 2017 Nike Inc Earnings Call",
+   "transcript_datetime": "9/27/2016 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "37BB465F-F9C3-4E55-8C5C-78ED441BEE86",
+   "name": "U. S. Steel Fourth Quarter 2011 Earnings Conference Call and Webcast",
+   "transcript_datetime": "1/31/2012 8:00:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "5A145575-8126-458F-8254-BCDB8AEEF138",
+   "name": "Q1 2012 Apple Inc. Earnings Conference Call",
+   "transcript_datetime": "1/24/2012 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "37E57B52-A424-4833-99AE-B47E04EEF931",
+   "name": "Q1 2016 United States Steel Corp Earnings Call",
+   "transcript_datetime": "4/27/2016 12:30:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "E5E19EDD-F8B3-4F11-BB27-CEB2ED90A9EB",
+   "name": "Q3 2014 International Business Machines Earnings Conference Call",
+   "transcript_datetime": "10/20/2014 12:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "AA117F65-6BFB-47A1-896D-119A509BC4E3",
+   "name": "Q2 2016 Alphabet Inc Earnings Call",
+   "transcript_datetime": "7/28/2016 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "B36E0848-311E-4A61-A8A8-579865F60510",
+   "name": "Q4 2009 Kenexa Earnings Conference Call",
+   "transcript_datetime": "2/2/2010 10:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "4C4638B7-82AB-4271-9678-3EE04D0F64F2",
+   "name": "Q3 2016 International Business Machines Corp Earnings Call",
+   "transcript_datetime": "10/17/2016 9:00:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "3756FBF8-BCBB-4BE0-ABCD-2F0339165BDB",
+   "name": "Q1 2015 Nike Inc Earnings Call",
+   "transcript_datetime": "9/25/2014 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "A95FCB7C-4442-4279-8E1A-BFD4D3298155",
+   "name": "Q3 2017 Alphabet Inc Earnings Call",
+   "transcript_datetime": "10/26/2017 8:30:00 PM",
+   "value": 0.1,
+   "organization": "Alphabet Inc",
+   "ticker": "GOOGL.OQ"
+ },
+ {
+   "transcript_id": "66BDA225-926F-441E-B104-DC8F7805F4BA",
+   "name": "Q2 2016 Netflix Inc Earnings Call",
+   "transcript_datetime": "7/18/2016 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "C937326B-83FD-4A2B-A869-55F6F2943E50",
+   "name": "Q1 2018 Apple Inc Earnings Call",
+   "transcript_datetime": "2/1/2018 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "B993F1C1-5695-4AEC-99C7-5227B895756E",
+   "name": "Q1 2019 Nike Inc Earnings Call",
+   "transcript_datetime": "9/25/2018 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "CC2792DE-0987-4A9A-8DF4-8EF768F311F2",
+   "name": "Q4 2014 International Business Machines Corp Earnings Call",
+   "transcript_datetime": "1/20/2015 9:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "029B3DBB-E207-4F04-B31E-F35B9BD10E11",
+   "name": "Q2 2017 Nike Inc Earnings Call",
+   "transcript_datetime": "12/20/2016 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "B1382BB6-4273-45E5-A07F-0735D13E3153",
+   "name": "Q2 2018 Nike Inc Earnings Call",
+   "transcript_datetime": "12/21/2017 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "150B0883-C8AF-4766-9214-4DF9EBE77EC3",
+   "name": "Q3 2017 United States Steel Corp Earnings Call",
+   "transcript_datetime": "11/1/2017 12:30:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "8D403AB3-8039-4F3D-A079-96AE0032339E",
+   "name": "Q4 2015 United States Steel Corp Earnings Call",
+   "transcript_datetime": "1/27/2016 1:30:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "918F3302-2E0A-4ED9-A1FF-410DB53A06C7",
+   "name": "Q1 2014 International Business Machines Earnings Conference Call",
+   "transcript_datetime": "4/16/2014 8:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "E6BB29FE-CD0B-4B21-8293-77C50AD4645F",
+   "name": "Q4 2016 United States Steel Corp Earnings Call",
+   "transcript_datetime": "2/1/2017 1:30:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "57B9CD40-FAE4-49B9-8359-A837C3AE37FD",
+   "name": "Q4 2016 Netflix Inc Earnings Call",
+   "transcript_datetime": "1/18/2017 10:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "29075BA0-5722-4BDE-89D5-A20331B5BC83",
+   "name": "Q4 2009 United States Steel Corp. Earnings Conference Call",
+   "transcript_datetime": "1/26/2010 8:00:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "4786ADBB-75A4-46CC-89F0-FAB8DE9D263C",
+   "name": "Q2 2013 Verizon Earnings Conference Call",
+   "transcript_datetime": "7/18/2013 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "6B73042F-0987-48E9-AA83-4E83D46AA6B3",
+   "name": "Q4 2010 Apple Inc. Earnings Conference Call",
+   "transcript_datetime": "10/18/2010 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Apple Inc",
+   "ticker": "AAPL.OQ"
+ },
+ {
+   "transcript_id": "E2F84711-DB7F-4C34-ADC7-34172CC68611",
+   "name": "Q3 2013 Netflix, Inc. Earnings Conference Call",
+   "transcript_datetime": "10/21/2013 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "745348D0-FD8F-4F82-BD45-F31F98991734",
+   "name": "Q4 2014 Nike Earnings Conference Call",
+   "transcript_datetime": "6/26/2014 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "3FC3F84B-D77C-4518-9AFB-8A4804585A88",
+   "name": "Q4 2014 Verizon Communications Inc Earnings Call",
+   "transcript_datetime": "1/22/2015 1:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ },
+ {
+   "transcript_id": "72D97292-5B65-4975-99AC-C993706DDAC5",
+   "name": "Q2 2010 International Business Machines Earnings Conference Call",
+   "transcript_datetime": "7/19/2010 8:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "BFAC0C1A-6A8F-49F2-A485-F66C1D165358",
+   "name": "Q4 2012 United States Steel Corp. Earnings Conference Call",
+   "transcript_datetime": "1/29/2013 8:00:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "FB25993F-3B6B-4377-972B-F9C085D9A427",
+   "name": "Q3 2016 United States Steel Corp Earnings Call",
+   "transcript_datetime": "11/2/2016 12:30:00 PM",
+   "value": 0.1,
+   "organization": "United States Steel Corp",
+   "ticker": "X.N"
+ },
+ {
+   "transcript_id": "62E693CB-085F-4573-BD9F-A1775C98A46D",
+   "name": "Q3 2016 Netflix Inc Earnings Call",
+   "transcript_datetime": "10/17/2016 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Netflix Inc",
+   "ticker": "NFLX.OQ"
+ },
+ {
+   "transcript_id": "9A6E76D7-85D3-40AC-8688-7EA416DDF262",
+   "name": "Q1 2013 Nike Earnings Conference Call",
+   "transcript_datetime": "9/27/2012 9:00:00 PM",
+   "value": 0.1,
+   "organization": "Nike Inc",
+   "ticker": "NKE.N"
+ },
+ {
+   "transcript_id": "2B455E6E-E1D9-4094-8AF9-66BBB7882907",
+   "name": "Q4 2009 International Business Machines Earnings Conference Call",
+   "transcript_datetime": "1/19/2010 9:30:00 PM",
+   "value": 0.1,
+   "organization": "International Business Machines Corp",
+   "ticker": "IBM.N"
+ },
+ {
+   "transcript_id": "B12FEA83-1268-4507-BF13-72A489605C3E",
+   "name": "Q1 2017 Verizon Communications Inc Earnings Call",
+   "transcript_datetime": "4/20/2017 12:30:00 PM",
+   "value": 0.1,
+   "organization": "Verizon Communications Inc",
+   "ticker": "VZ.N"
+ }
+]
