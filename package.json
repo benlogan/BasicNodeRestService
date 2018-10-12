@@ -1,0 +1,26 @@
+{
+  "name": "basic-node-rest-server",
+  "version": "0.0.1",
+  "description": "Node JS Server App for serving static JSON",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha test"
+  },
+  "dependencies": {
+    "express": "4.13.4",
+    "node-cache": "^4.1.0",
+    "request": "^2.79.0"
+  },
+  "engines": {
+    "node": "8.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "node"
+  ],
+  "license": "?"
+}
